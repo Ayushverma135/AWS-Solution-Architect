@@ -19,6 +19,8 @@ The realistic context helped me to understand how critical the relationship can 
 
 Through this program I realized that I really enjoy working on designing hosting architecture and would love to apply what I've learned as a Solutions Architect at AWS."
 
+<img width="386" alt="Screenshot 2024-03-31 225815" src="https://github.com/ayushuv/AWS-Solution-Architect/assets/120269805/c44ede59-44ea-4d92-b714-7135cc49ec9c">
+
 # You receive a client email request
 In this task, imagine you are a solutions architect at AWS. A customer has contacted you because they are having some problems with the way their web application is currently hosted.
 
